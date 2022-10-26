@@ -1,0 +1,19 @@
+﻿  Engine.cpp
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Main.cpp
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lup0201\Desktop\SDL-Gine\SDL-Gine\Engine.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  SDL-Gine.vcxproj -> C:\Users\lup0201\Desktop\SDL-Gine\x64\Debug\SDL-Gine.exe
