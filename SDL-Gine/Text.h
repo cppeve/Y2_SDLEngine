@@ -5,6 +5,8 @@
 #include <SDL_ttf.h>
 #include "Screen.h"
 
+//TODO - Remove m_
+
 class Text
 {
 

@@ -15,12 +15,15 @@ public:
 	
 	void Refresh();
 
-	void ScreenPresent();
-	bool GetIsgamerunning();
+	void ScreenPresent(); //??
+	bool GetIsgamerunning(); //Camel case
 
+
+	//This will have to be changed eventually
 	Screen* screen = new Screen();
 	Mixer* mixer = new Mixer();
 
 private:
+	//TODO - Camel case 
 	bool isgamerunning = true;
 };

@@ -17,6 +17,14 @@ SDLEngine::SDLEngine()
 // Run Every Frame
 void SDLEngine::Update()
 {
+	/*while (isgamerunning)
+	{
+		screen.refresh();
+		render game objects;
+		screen.present;
+
+	}*/
+
 	Input::Instance()->Update();
 
 	if (Input::Instance()->IsMouseClicked())

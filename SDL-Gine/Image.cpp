@@ -23,6 +23,7 @@ bool Image::Load(Screen& screen, const std::string& filename)
 	return true;
 }
 
+//TODO - Is this required? Why is it empty?
 void Image::Unload()
 {
 

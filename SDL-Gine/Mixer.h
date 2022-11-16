@@ -3,6 +3,8 @@
 #include<string>
 #include<SDL_mixer.h>
 
+//TODO - Remove m_
+
 class Mixer
 {
 

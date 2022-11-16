@@ -5,6 +5,10 @@
 #include "Vector.h"
 #include "Screen.h"
 
+//TODO - Remove m_
+//TODO - Tidy code
+//TODO - Add animations and test using sprite sheets
+
 class Image
 {
 
