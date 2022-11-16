@@ -1,3 +1,5 @@
 .vs
-x64
-SDL-Gine\x64
+x64\Debug
+x64\Release
+SDL-Gine\x64\Debug
+SDL-Gine\x64\Release
